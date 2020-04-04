@@ -1,0 +1,4 @@
+2020-04-01T17:03:03+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\wamp64\www\wordpress\wp-content\plugins\ocean-extra\includes\widgets\tags.php on line 9
+
+2020-04-01T17:03:39+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\wamp64\www\wordpress\wp-content\plugins\woocommerce\templates\loop\add-to-cart.php on line 18
+

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>comic &#8211; Yeminition Tv</title>
+	<atom:link href="/https://yemzybhin.github.io/yeminitiontv/product-tag/comic/feed/" rel="self" type="application/rss+xml" />
+	<link>/https://yemzybhin.github.io/yeminitiontv</link>
+	<description>Animation and comic website</description>
+	<lastBuildDate>Thu, 02 Apr 2020 23:03:09 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+
+<image>
+	<url>/https://yemzybhin.github.io/yeminitiontv/wp-content/uploads/2020/02/cropped-StickItImage_1542200542081-1-32x32.png</url>
+	<title>comic &#8211; Yeminition Tv</title>
+	<link>/https://yemzybhin.github.io/yeminitiontv</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Real Craze Zone &#8211; Episode 8 (comic)</title>
+		<link>/https://yemzybhin.github.io/yeminitiontv/product/real-craze-zone-episode-8-comic/</link>
+		
+		<dc:creator><![CDATA[Adeyemi Oduyungbo]]></dc:creator>
+		<pubDate>Wed, 11 Mar 2020 03:52:52 +0000</pubDate>
+				<guid isPermaLink="false">/https://yemzybhin.github.io/yeminitiontv/?post_type=product&#038;p=574</guid>
+
+					<description><![CDATA[Her face scared him off.]]></description>
+										<content:encoded><![CDATA[<p>This is the story of a man, mr fatai.  After a long day, on his way home, he saw something he could not take his eyes off.  He regretted following his thoughts at last.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
